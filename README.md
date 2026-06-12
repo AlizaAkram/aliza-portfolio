@@ -32,6 +32,4 @@ View the portfolio here: [https://aliza-akram-portfolio.netlify.app/]
 ## Author
 
 Aliza Akram
-Computer Science Graduate | Full-Stack Developer
-Aliza Akram
 Computer Science Graduate | Full-Stack Developer | UI/UX Enthusiast
